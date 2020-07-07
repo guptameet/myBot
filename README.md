@@ -18,3 +18,7 @@
         <img src="http://img.shields.io/badge/swift-5-brightgreen.svg" alt="Swift 5">
     </a>
 </p>
+
+<p align="left">
+To try my hands at creating a bot for Slack using Swift for Server using Vapor.
+</p>
